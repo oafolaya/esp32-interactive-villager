@@ -1,7 +1,7 @@
 # Interactive Minecraft Villager
 I completed this project for a mechatronics class. 
 
-![Demo Video](videos/demo.MOV)
+![Demo Video](videos/demo.mp4)
 
 ## Description
 This project implements an interactive embedded system built around an STM32 microcontroller. The system uses an INMP411 I2S MEMS microphone to detect when a user is speaking. When speech is detected, the microcontroller generates a response by randomly stitching together audio samples stored in memory.
