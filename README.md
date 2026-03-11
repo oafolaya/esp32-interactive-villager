@@ -44,7 +44,7 @@ The minecart task controls the motion of the minecart base. It randomly enables 
 - 5 Volt Hobby Servo
 
 ### Electrical Schematic
-![Electrical Schematic](images/Electronic Schematic.png)
+![Electrical Schematic](images/Electronic_Schematic.png)
 
 
 # Lessons
