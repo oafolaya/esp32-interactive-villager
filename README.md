@@ -1,6 +1,8 @@
 # Interactive Minecraft Villager
 I completed this project for a mechatronics class. 
 
+![Demo Video](videos/demo.MOV)
+
 ## Description
 This project implements an interactive embedded system built around an STM32 microcontroller. The system uses an INMP411 I2S MEMS microphone to detect when a user is speaking. When speech is detected, the microcontroller generates a response by randomly stitching together audio samples stored in memory.
 
@@ -42,9 +44,7 @@ The minecart task controls the motion of the minecart base. It randomly enables 
 - 5 Volt Hobby Servo
 
 ### Electrical Schematic
-
-
-
+![Electrical Schematic](images/Electronic_Schematic.png)
 
 
 # Lessons
